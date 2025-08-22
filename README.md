@@ -41,5 +41,6 @@ Every time you teach it something new, it remembers for future conversations.
 
 📸 Example Run
 
-![Chatbot Screenshot](Screenshot%202025-08-22%20at%209.50.58 PM.png)
+![Uploading Screenshot 2025-08-22 at 9.50.58 PM.png…]()
+
 
